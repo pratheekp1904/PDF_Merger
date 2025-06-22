@@ -43,7 +43,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown('<div class="title"> PDF Merger Tool</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Merge your PDFs directly in memory — fast, clean, and secure!</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">Merge your PDFs — fast, clean, and secure!</div>', unsafe_allow_html=True)
 
 uploaded_files = st.file_uploader("📄 Upload PDF files", type="pdf", accept_multiple_files=True)
 
