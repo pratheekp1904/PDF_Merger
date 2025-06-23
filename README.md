@@ -4,7 +4,7 @@ A fast, simple, and secure web app to **merge multiple PDF files** into a single
 
 ## 🚀 Live Demo
 
-🔗 [Try it out on Streamlit](#) *https://pdf-merger-app.streamlit.app/*
+🔗 [Try it out on Streamlit](#) *(https://pdf-merger-app.streamlit.app/)*
 
 ---
 
