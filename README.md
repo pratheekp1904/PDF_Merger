@@ -7,12 +7,18 @@ https://pdf-merger-app.streamlit.app/
 
 ✨ Features
 📄 Upload multiple PDF files
+
 🔗 Merge them in the order you upload
+
 ✏️ Choose a custom name for the merged file
+
 ⬇️ Download the final PDF instantly
+
 ⚡️ Clean, responsive UI with custom styling
 
 🖥️ Tech Stack
 Frontend/Backend: Streamlit
+
 PDF Processing: PyPDF2
+
 Language: Python3
